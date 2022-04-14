@@ -1,0 +1,10 @@
+# zhglxt-docs #
+docs/.vuepress/.temp/
+docs/.vuepress/.cache/
+docs/.vuepress/dist/
+
+# Node modules
+node_modules/
+
+yarn.lock
+package-lock.json
