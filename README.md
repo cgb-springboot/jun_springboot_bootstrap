@@ -2,6 +2,7 @@
 ### jun_boot_admin springboot权限管理项目开发脚手架
 
 
+
 ### 项目说明
 -------------
 1. jun_boot_admin是以Springboot+Shiro+MybatisPlus为核心，以shiro-redis、redis为辅开发的精简后台基础系统。
